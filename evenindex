@@ -1,0 +1,8 @@
+class EvenIndex{
+	public static void main(String args[]){
+	int array[]={1,2,14,12,6,4};
+	for(int i=1;i<6;i=i+2){
+	System.out.println(array[i]);
+	}
+}
+}
